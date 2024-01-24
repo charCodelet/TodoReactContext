@@ -1,3 +1,6 @@
+// I decided to just take care of all the types at the top level while attempting to demonstrate facility with Typescript in general;
+// hence, the usage of an interface, etc.
+
 export interface ITodo {
     id: string;
     label: string;
